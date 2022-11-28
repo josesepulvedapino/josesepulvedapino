@@ -1,7 +1,7 @@
 <h1 align="center">I'm José Miguel Alejandro Sepúlveda Pino</h1>
 <h3 align="center">Chilean, Android Developer Junior, Computer Engineering Student</h3>
 
-- I am currently learningo **Kotlin, Jetpack Compose, Firebase, API REST**
+- I am currently learning **Kotlin, Jetpack Compose, Firebase, API REST**
 
 - Email **josealejandrosepulvedapino@gmail.com**
 
