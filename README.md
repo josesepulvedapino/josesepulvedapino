@@ -1,5 +1,5 @@
 <h1 align="center">I'm José Miguel Alejandro Sepúlveda Pino</h1>
-<h3 align="center">Chilean, Android Developer Junior, Programmer analyst Student</h3>
+<h3 align="center">Chilean, Beb and Android developer, Programmer analyst Student</h3>
 
 - I am currently learning **Kotlin, Jetpack Compose, Firebase, API REST**
 
