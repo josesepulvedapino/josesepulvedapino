@@ -6,8 +6,8 @@
 - Email **josealejandrosepulvedapino@gmail.com**
 - 
 <h3 align="left">Projects</h3>
-<a href="https://josesepulvedapino.github.io/cryptovalues-angular/" target="blank">Cryptovalues</a>
-<a href="" target="blank">WeatherApp (Coming soon)</a>
+<p><a href="https://josesepulvedapino.github.io/cryptovalues-angular/" target="blank">Cryptovalues</a></p>
+<p><a href="" target="blank">WeatherApp (Coming soon)</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
