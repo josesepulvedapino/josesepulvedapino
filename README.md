@@ -7,7 +7,7 @@
 
 <h3 align="left">Projects</h3>
 <p><a href="https://josesepulvedapino.github.io/cryptovalues-angular/" target="blank">Cryptovalues</a></p>
-<p><a href="" target="blank">WeatherApp (Coming soon)</a></p>
+<p><a href="https://github.com/josesepulvedapino/weatherapp-angular" target="blank">WeatherApp (Coming soon)</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
