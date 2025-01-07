@@ -5,6 +5,7 @@
 - Email **josealejandrosepulvedapino@gmail.com**
 
 <h3 align="left">Projects</h3>
+<p><a href="https://mnist-recognition-frontend.vercel.app" target="blank">Digit Recognition</a></p>
 <p><a href="https://josesepulvedapino.github.io/cryptovalues-angular/" target="blank">Cryptovalues</a></p>
 <p><a href="https://weatherapp-5c5aa.web.app" target="blank">WeatherApp</a></p>
 
