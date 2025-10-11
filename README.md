@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/GzB0H2s.png" width="100%" alt="Data Analysis and AI Banner - Placeholder Image">
-</p>
-
 <h1 align="center">👋 Hello, I'm José Sepúlveda</h1>
 <h3 align="center">Aspiring Data Analyst | Full Stack Developer | Generative AI Enthusiast</h3>
 
