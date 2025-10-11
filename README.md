@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://i.imgur.com/GzB0H2s.png" width="100%" alt="Data Analysis and AI Banner - Placeholder Image">
+</p>
+
+<h1 align="center">👋 Hello, I'm José Sepúlveda</h1>
+<h3 align="center">Aspiring Data Analyst | Full Stack Developer | Generative AI Enthusiast</h3>
+
+---
+
 <div align="center">
-  <h1>
-    Hi there, I'm José Sepúlveda 👋
-  </h1>
   <p>
     <strong><a href="#english-version">English Version</a></strong> | <strong><a href="#versión-en-español">Versión en Español</a></strong>
   </p>
@@ -15,106 +21,205 @@
 <br>
 
 <a name="english-version"></a>
-## English Version
+## 🇬🇧 English Version: About Me
 
-I'm a proactive and results-oriented developer, passionate about technology and innovation. While my background is in building functional and responsive web applications with **Angular** and other modern technologies, I am currently transitioning my career toward **Data and Artificial Intelligence**.
+[cite_start]I am a **proactive and results-oriented professional** [cite: 5] [cite_start]with a solid background in building functional, intuitive, and responsive web/mobile applications[cite: 5].
 
-My goal is to become a **Data Analyst**, and I am actively developing my skills in **SQL**, **Python**, **Power BI**, and **Excel**. I am focused on learning how to leverage data analysis and Machine Learning to create smarter, more efficient, and user-centered digital experiences.
+🚀 **My Career Transition:** I am actively pivoting my career from development (`Angular`, `Spring Boot`) towards **Data Analysis and Artificial Intelligence**. My goal is to leverage my engineering foundation to extract, transform, and visualize data into actionable business insights.
 
----
-
-### 🚀 Tech Stack & Skills
-
-| Web Development  | Data Analysis (In Progress) | Cloud & Databases   | Methodologies & Tools |
-|------------------|-----------------------------|---------------------|-----------------------|
-| `Angular`        | `Python`                    | `AWS`               | `Scrum`               |
-| `Next.js`        | `SQL`                       | `Firebase`          | `Agile`               |
-| `React`          | `Power BI`                  |                     | `Git`                 |
-| `TypeScript`     | `Excel`                     |                     |                       |
-| `Spring Boot`    | `TensorFlow`                |                     |                       |
-| `Java` / `FastAPI`| `Generative AI`             |                     |                       |
+💡 **My Current Focus:** I am currently training to become a **Data Analyst** by focusing on key skills and certifications:
+- **Data Querying & Manipulation:** Mastering **SQL** and **Python** libraries like **Pandas** and **NumPy** (via DataCamp).
+- **Visualization & BI:** Preparing for the **Microsoft PL-300 (Power BI Data Analyst)** and studying **AZ-900 (Azure Fundamentals)**.
+- **AI Integration:** Applying Generative AI models in real-world applications (see DEFCA project).
 
 ---
 
-### 💻 Professional Experience
+## 🚀 Featured AI-First Project
 
-* **Junior Software Engineer | NTT DATA Europe & Latam** (_May 2023 - Sep 2023_)
-    * Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector.
-    * Translated Figma designs into responsive and functional interfaces using Angular, HTML, and SCSS.
-    * Coordinated directly with clients to analyze requirements, present progress, and propose improvements.
+My experience includes developing high-impact, user-centric solutions that incorporate AI as a core component.
 
-* **Web and Mobile Developer (Intern) | Sellside SPA** (_Jan 2023 - Feb 2023_)
-    * Designed and developed responsive web interfaces using Angular.
-    * Created mobile applications in Flutter with Firebase integration for authentication and real-time databases.
-
----
-
-### 🎓 Education & Recognitions
-
-* **Computer Engineering** (In progress, 2024-2025) - _INACAP_
-* **Programming Analyst** (2021-2023) - _INACAP_
-* **Outstanding Student Award (Estudiante Sello INACAP)** (2022)
-    * Recognition for outstanding performance in the "Hack the Challenge 2022," organized by NTT Data Chile.
+### 🌿 DEFCA – Hazelnut Crop Disease Detection (AI-First)
+> A progressive web application for phytosanitary management that uses **Artificial Intelligence** for disease detection and treatment recommendations in hazelnut crops.
+**AI Focus:** Uses **OpenAI GPT-4o Vision** for image analysis of leaves and **GPT-4o** for an intelligent agronomist assistant based on real-time meteorological data.
+**Architecture:** `Next.js 15` • `React 19` • `TypeScript` • `AWS S3`/`RDS PostgreSQL` • `AWS Cognito`.
+**Highlights:** Geolocation-based field mapping, **offline functionality** for field use, and detailed data analytics visualization.
+🔗 [Repository Link: defca-app](https://github.com/josesepulvedapino/defca-app/tree/feature/assistant-agronomist)
 
 ---
 
-### 📄 Key Certifications
+## 💼 Professional Experience
 
-* **Introduction to Generative AI** - _Amazon Web Services (AWS)_
-* **Scrum Foundation Professional Certificate** - _CertiProf_ (2023)
-* **Mobile Apps Development** - _Google Activate_ (2022)
-* **User Interface Development (Front End)** - _INACAP_ (2023)
+**Junior Software Engineer** | **NTT DATA Europe & Latam and Clínica Alemana**
+[cite_start]*May 2023 – September 2023* [cite: 10]
+- [cite_start]Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector under **Agile methodologies**[cite: 11].
+- [cite_start]Implemented web layout using **Angular, HTML, and SCSS**, translating Figma designs into responsive and functional interfaces[cite: 12].
+- [cite_start]Coordinated direct meetings with clients to analyze requirements, present progress, and propose improvements[cite: 13].
 
-<br>
+**Web and Mobile Developer Intern** | **Sellside SPA**
+[cite_start]*January 2023 – February 2023* [cite: 22]
+- [cite_start]Developed web applications using **Angular** with an emphasis on responsiveness[cite: 24].
+- [cite_start]Created mobile applications in **Flutter** with **Firebase** integration for authentication and real-time databases[cite: 25].
+- [cite_start]Followed the **Scrum methodology** for planning and delivering features in sprints[cite: 26].
+
+---
+
+## 🧠 My Tech Stack
+
+My stack represents the successful transition from Full Stack Development to a Data-focused role.
+
+**Data, AI & ML (Core Focus):**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Web & Frameworks:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**Cloud, DB & Tools:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+[cite_start]**Computer Engineering** (In progress, 2024-2025) - *INACAP* [cite: 27]
+
+[cite_start]**Programming Analyst** (2021-2023) - *INACAP* [cite: 27]
+
+### 🏅 Recognitions
+- [cite_start]**Outstanding Student Award (Estudiante Sello INACAP)** (2022) [cite: 27]
+- **Recognition for participation** in the NTT DATA "Hack the Challenge 2022" competition in Chile.
+
+### 📄 Certifications
+- [cite_start]**Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023) [cite: 29]
+- **Intermediate English (CEFR B1)** - *British Council*
+- [cite_start]**User Interface Development** - *INACAP* (2023) [cite: 30]
+- [cite_start]**Mobile Apps Development** - *GOOGLE ACTIVATE* (2022) [cite: 31]
+
+### 🎯 Certification Focus (2025)
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- **Microsoft Azure Fundamentals (AZ-900)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josesepulvedapino's GitHub Stats">
+</p>
+
+---
+
 <br>
 
 <a name="versión-en-español"></a>
-## Versión en Español
+## 🇪🇸 Versión en Español: Sobre Mí
 
-Soy un profesional proactivo y orientado a resultados, apasionado por la tecnología y la innovación. Aunque mi experiencia se centra en el desarrollo de aplicaciones web funcionales y responsivas con **Angular** y otras tecnologías modernas, actualmente estoy realizando una transición de mi carrera hacia el área de **Datos e Inteligencia Artificial**.
+[cite_start]Soy un profesional **proactivo y orientado a resultados** [cite: 5][cite_start], con una base sólida en la construcción de aplicaciones web y móviles funcionales, intuitivas y responsivas[cite: 5].
 
-Mi objetivo es convertirme en **Analista de Datos**, por lo que estoy desarrollando activamente mis habilidades en **SQL**, **Python**, **Power BI** y **Excel**. Estoy enfocado en aprender cómo aprovechar el análisis de datos y el Machine Learning para crear experiencias digitales más inteligentes, eficientes y centradas en el usuario.
+🚀 **Mi Transición Profesional:** Actualmente, estoy reenfocando activamente mi carrera, pasando del desarrollo (`Angular`, `Spring Boot`) hacia el **Análisis de Datos e Inteligencia Artificial**. Mi objetivo es aprovechar mi base de ingeniería para extraer, transformar y visualizar datos en *insights* de negocio accionables.
 
----
-
-### 🚀 Tecnologías y Habilidades
-
-| Desarrollo Web    | Análisis de Datos (En Progreso) | Cloud & Bases de Datos | Metodologías y Herramientas |
-|-------------------|---------------------------------|------------------------|-----------------------------|
-| `Angular`         | `Python`                        | `AWS`                  | `Scrum`                     |
-| `Next.js`         | `SQL`                           | `Firebase`             | `Agile`                     |
-| `React`           | `Power BI`                      |                        | `Git`                       |
-| `TypeScript`      | `Excel`                         |                        |                             |
-| `Spring Boot`     | `TensorFlow`                    |                        |                             |
-| `Java` / `FastAPI`| `IA Generativa`                 |                        |                             |
+💡 **Mi Foco Actual:** Me estoy formando intensamente para convertirme en **Analista de Datos**, concentrándome en habilidades y certificaciones clave:
+- **Consulta y Manipulación de Datos:** Dominando **SQL** y **Python** con librerías como **Pandas** y **NumPy** (a través de DataCamp).
+- **Visualización y BI:** Preparándome para la certificación **Microsoft PL-300 (Analista de Datos Power BI)** y estudiando **AZ-900 (Fundamentos de Azure)**.
+- **Integración de IA:** Aplicando modelos de IA Generativa en proyectos reales (ver proyecto DEFCA).
 
 ---
 
-### 💻 Experiencia Profesional
+## 🚀 Proyecto Destacado con Enfoque en IA
 
-* **Junior Software Engineer | NTT DATA Europe & Latam** (_Mayo 2023 - Sep 2023_)
-    * Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo metodologías ágiles.
-    * Implementé la maquetación web con Angular, HTML y SCSS, traduciendo diseños desde Figma a interfaces responsivas.
-    * Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras.
+Mi experiencia incluye el desarrollo de soluciones de alto impacto, orientadas al usuario, incorporando la IA como un componente central.
 
-* **Desarrollador Web y Mobile (Prácticante) | Sellside SPA** (_Ene 2023 - Feb 2023_)
-    * Diseñé y desarrollé interfaces web utilizando Angular, con énfasis en responsividad.
-    * Creé aplicaciones móviles en Flutter con integración de Firebase para autenticación y bases de datos en tiempo real.
-
----
-
-### 🎓 Educación y Reconocimientos
-
-* **Ingeniería en Informática** (En curso, 2024-2025) - _INACAP_
-* **Analista Programador** (2021-2023) - _INACAP_
-* **Estudiante Sello INACAP** (2022)
-    * Reconocimiento por el desempeño destacado en el "Hack the Challenge 2022", organizado por NTT Data Chile.
+### 🌿 DEFCA – Detección de Enfermedades en Cultivos de Avellanos (IA-First)
+> Aplicación web progresiva para la gestión fitosanitaria que utiliza **Inteligencia Artificial** para la detección de enfermedades y la recomendación de tratamientos en cultivos de avellanos.
+**Foco en IA:** Utiliza **OpenAI GPT-4o Vision** para el análisis de imágenes de hojas y **GPT-4o** para un asistente agronómico inteligente basado en datos meteorológicos en tiempo real.
+**Arquitectura:** `Next.js 15` • `React 19` • `TypeScript` • `AWS S3`/`RDS PostgreSQL` • `AWS Cognito`.
+**Destacado:** Mapeo de predios con geolocalización, **funcionalidad offline** para uso en campo y visualización detallada de los datos de análisis.
+🔗 [Repository Link: defca-app](https://github.com/josesepulvedapino/defca-app/tree/feature/assistant-agronomist)
 
 ---
 
-### 📄 Certificaciones Destacadas
+## 💼 Experiencia Profesional
 
-* **Introduction to Generative AI** - _Amazon Web Services (AWS)_
-* **Scrum Foundation Professional Certificate** - _CERTIPROF_ (2023)
-* **Desarrollo de Apps Móviles** - _GOOGLE ACTÍVATE_ (2022)
-* **Desarrollo de Interfaces de Usuario** - _INACAP_ (2023)
+**Junior Software Engineer** | **NTT DATA Europe & Latam y Clínica Alemana**
+[cite_start]*Mayo 2023 – Septiembre 2023* [cite: 10]
+- [cite_start]Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo **metodologías ágiles**[cite: 11].
+- [cite_start]Implementé maquetación web con **Angular, HTML y SCSS**, traduciendo diseños de Figma a interfaces responsivas y funcionales[cite: 12].
+- [cite_start]Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras[cite: 13].
+
+**Practicante, Desarrollador Web y Mobile** | **Sellside SPA**
+[cite_start]*Enero 2023 – Febrero 2023* [cite: 22]
+- [cite_start]Desarrollé aplicaciones web utilizando **Angular**, con énfasis en la responsividad[cite: 24].
+- [cite_start]Creé aplicaciones móviles en **Flutter** con integración de **Firebase** para autenticación y bases de datos en tiempo real[cite: 25].
+- [cite_start]Seguimiento de la **metodología Scrum** para la planificación y entrega de funcionalidades[cite: 26].
+
+---
+
+## 🧠 Mi Stack de Tecnologías
+
+Mi stack actual actúa como un puente entre el Desarrollo Full Stack y mi enfoque en el rol de Data Analyst.
+
+**Data, IA y ML (Foco Principal):**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Web y Frameworks:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**Cloud, DB y Herramientas:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 🎓 Educación y Certificaciones
+
+[cite_start]**Ingeniería en Informática** (En curso, 2024-2025) - *INACAP* [cite: 27]
+
+[cite_start]**Analista Programador** (2021-2023) - *INACAP* [cite: 27]
+
+### 🏅 Reconocimientos Destacados
+- [cite_start]**Estudiante Sello INACAP** (2022) [cite: 27]
+- **Reconocimiento por participación** en la competencia "Hack the Challenge 2022" de NTT DATA Chile.
+
+### 📄 Certificaciones
+- [cite_start]**Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023) [cite: 29]
+- **Inglés Intermedio (CEFR B1)** - *British Council*
+- [cite_start]**Desarrollo de Interfaces de Usuario** - *INACAP* (2023) [cite: 30]
+- [cite_start]**Desarrollo de Apps Móviles** - *GOOGLE ACTÍVATE* (2022) [cite: 31]
+
+### 🎯 Foco de Certificación (2025)
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- **Microsoft Azure Fundamentals (AZ-900)**
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub de josesepulvedapino">
+</p>
