@@ -1,7 +1,7 @@
 <!-- 🌎 Language Switch -->
 <p align="right">
-  <a href="#english-version">English 🇬🇧</a> | 
-  <a href="#versión-en-español">Español 🇪🇸</a>
+  <a href="#english-version">English</a> | 
+  <a href="#versión-en-español">Español</a>
 </p>
 
 ---
