@@ -41,22 +41,22 @@ My goal is to become a **Data Analyst**, and I am actively developing my skills 
 
 ### 💻 Professional Experience
 
-* **Junior Software Engineer | [cite_start]NTT DATA Europe & Latam** (_May 2023 - Sep 2023_) [cite: 10]
-    * [cite_start]Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector. [cite: 11]
-    * [cite_start]Translated Figma designs into responsive and functional interfaces using Angular, HTML, and SCSS. [cite: 12]
-    * [cite_start]Coordinated directly with clients to analyze requirements, present progress, and propose improvements. [cite: 13]
+* **Junior Software Engineer | NTT DATA Europe & Latam** (_May 2023 - Sep 2023_)
+    * Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector.
+    * Translated Figma designs into responsive and functional interfaces using Angular, HTML, and SCSS.
+    * Coordinated directly with clients to analyze requirements, present progress, and propose improvements.
 
-* **Web and Mobile Developer (Intern) | [cite_start]Sellside SPA** (_Jan 2023 - Feb 2023_) [cite: 22]
-    * [cite_start]Designed and developed responsive web interfaces using Angular. [cite: 24]
-    * [cite_start]Created mobile applications in Flutter with Firebase integration for authentication and real-time databases. [cite: 25]
+* **Web and Mobile Developer (Intern) | Sellside SPA** (_Jan 2023 - Feb 2023_)
+    * Designed and developed responsive web interfaces using Angular.
+    * Created mobile applications in Flutter with Firebase integration for authentication and real-time databases.
 
 ---
 
 ### 🎓 Education & Recognitions
 
-* [cite_start]**Computer Engineering** (In progress, 2024-2025) - _INACAP_ [cite: 27]
-* [cite_start]**Programming Analyst** (2021-2023) - _INACAP_ [cite: 27]
-* [cite_start]**Outstanding Student Award (Estudiante Sello INACAP)** (2022) [cite: 27]
+* **Computer Engineering** (In progress, 2024-2025) - _INACAP_
+* **Programming Analyst** (2021-2023) - _INACAP_
+* **Outstanding Student Award (Estudiante Sello INACAP)** (2022)
     * Recognition for outstanding performance in the "Hack the Challenge 2022," organized by NTT Data Chile.
 
 ---
@@ -64,9 +64,9 @@ My goal is to become a **Data Analyst**, and I am actively developing my skills 
 ### 📄 Key Certifications
 
 * **Introduction to Generative AI** - _Amazon Web Services (AWS)_
-* [cite_start]**Scrum Foundation Professional Certificate** - _CertiProf_ (2023) [cite: 29]
-* [cite_start]**Mobile Apps Development** - _Google Activate_ (2022) [cite: 31]
-* [cite_start]**User Interface Development (Front End)** - _INACAP_ (2023) [cite: 30]
+* **Scrum Foundation Professional Certificate** - _CertiProf_ (2023)
+* **Mobile Apps Development** - _Google Activate_ (2022)
+* **User Interface Development (Front End)** - _INACAP_ (2023)
 
 <br>
 <br>
@@ -74,7 +74,7 @@ My goal is to become a **Data Analyst**, and I am actively developing my skills 
 <a name="versión-en-español"></a>
 ## Versión en Español
 
-[cite_start]Soy un profesional proactivo y orientado a resultados, apasionado por la tecnología y la innovación. [cite: 5] [cite_start]Aunque mi experiencia se centra en el desarrollo de aplicaciones web funcionales y responsivas con **Angular** y otras tecnologías modernas, [cite: 5] actualmente estoy realizando una transición de mi carrera hacia el área de **Datos e Inteligencia Artificial**.
+Soy un profesional proactivo y orientado a resultados, apasionado por la tecnología y la innovación. Aunque mi experiencia se centra en el desarrollo de aplicaciones web funcionales y responsivas con **Angular** y otras tecnologías modernas, actualmente estoy realizando una transición de mi carrera hacia el área de **Datos e Inteligencia Artificial**.
 
 Mi objetivo es convertirme en **Analista de Datos**, por lo que estoy desarrollando activamente mis habilidades en **SQL**, **Python**, **Power BI** y **Excel**. Estoy enfocado en aprender cómo aprovechar el análisis de datos y el Machine Learning para crear experiencias digitales más inteligentes, eficientes y centradas en el usuario.
 
@@ -103,22 +103,22 @@ Mi objetivo es convertirme en **Analista de Datos**, por lo que estoy desarrolla
 
 ### 💻 Experiencia Profesional
 
-* **Junior Software Engineer | [cite_start]NTT DATA Europe & Latam** (_Mayo 2023 - Sep 2023_) [cite: 10]
-    * [cite_start]Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo metodologías ágiles. [cite: 11]
-    * [cite_start]Implementé la maquetación web con Angular, HTML y SCSS, traduciendo diseños desde Figma a interfaces responsivas. [cite: 12]
-    * [cite_start]Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras. [cite: 13]
+* **Junior Software Engineer | NTT DATA Europe & Latam** (_Mayo 2023 - Sep 2023_)
+    * Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo metodologías ágiles.
+    * Implementé la maquetación web con Angular, HTML y SCSS, traduciendo diseños desde Figma a interfaces responsivas.
+    * Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras.
 
-* **Desarrollador Web y Mobile (Prácticante) | [cite_start]Sellside SPA** (_Ene 2023 - Feb 2023_) [cite: 22]
-    * [cite_start]Diseñé y desarrollé interfaces web utilizando Angular, con énfasis en responsividad. [cite: 24]
-    * [cite_start]Creé aplicaciones móviles en Flutter con integración de Firebase para autenticación y bases de datos en tiempo real. [cite: 25]
+* **Desarrollador Web y Mobile (Prácticante) | Sellside SPA** (_Ene 2023 - Feb 2023_)
+    * Diseñé y desarrollé interfaces web utilizando Angular, con énfasis en responsividad.
+    * Creé aplicaciones móviles en Flutter con integración de Firebase para autenticación y bases de datos en tiempo real.
 
 ---
 
 ### 🎓 Educación y Reconocimientos
 
-* [cite_start]**Ingeniería en Informática** (En curso, 2024-2025) - _INACAP_ [cite: 27]
-* [cite_start]**Analista Programador** (2021-2023) - _INACAP_ [cite: 27]
-* [cite_start]**Estudiante Sello INACAP** (2022) [cite: 27]
+* **Ingeniería en Informática** (En curso, 2024-2025) - _INACAP_
+* **Analista Programador** (2021-2023) - _INACAP_
+* **Estudiante Sello INACAP** (2022)
     * Reconocimiento por el desempeño destacado en el "Hack the Challenge 2022", organizado por NTT Data Chile.
 
 ---
@@ -126,6 +126,6 @@ Mi objetivo es convertirme en **Analista de Datos**, por lo que estoy desarrolla
 ### 📄 Certificaciones Destacadas
 
 * **Introduction to Generative AI** - _Amazon Web Services (AWS)_
-* [cite_start]**Scrum Foundation Professional Certificate** - _CERTIPROF_ (2023) [cite: 29]
-* [cite_start]**Desarrollo de Apps Móviles** - _GOOGLE ACTÍVATE_ (2022) [cite: 31]
-* [cite_start]**Desarrollo de Interfaces de Usuario** - _INACAP_ (2023) [cite: 30]
+* **Scrum Foundation Professional Certificate** - _CERTIPROF_ (2023)
+* **Desarrollo de Apps Móviles** - _GOOGLE ACTÍVATE_ (2022)
+* **Desarrollo de Interfaces de Usuario** - _INACAP_ (2023)
