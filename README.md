@@ -5,6 +5,11 @@
   <p>
     <strong><a href="#english-version">English Version</a></strong> | <strong><a href="#versión-en-español">Versión en Español</a></strong>
   </p>
+  <p>
+    <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 </div>
 
 <br>
@@ -15,14 +20,6 @@
 I'm a proactive and results-oriented developer, passionate about technology and innovation. While my background is in building functional and responsive web applications with **Angular** and other modern technologies, I am currently transitioning my career toward **Data and Artificial Intelligence**.
 
 My goal is to become a **Data Analyst**, and I am actively developing my skills in **SQL**, **Python**, **Power BI**, and **Excel**. I am focused on learning how to leverage data analysis and Machine Learning to create smarter, more efficient, and user-centered digital experiences.
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
 
 ---
 
@@ -77,14 +74,6 @@ My goal is to become a **Data Analyst**, and I am actively developing my skills 
 Soy un profesional proactivo y orientado a resultados, apasionado por la tecnología y la innovación. Aunque mi experiencia se centra en el desarrollo de aplicaciones web funcionales y responsivas con **Angular** y otras tecnologías modernas, actualmente estoy realizando una transición de mi carrera hacia el área de **Datos e Inteligencia Artificial**.
 
 Mi objetivo es convertirme en **Analista de Datos**, por lo que estoy desarrollando activamente mis habilidades en **SQL**, **Python**, **Power BI** y **Excel**. Estoy enfocado en aprender cómo aprovechar el análisis de datos y el Machine Learning para crear experiencias digitales más inteligentes, eficientes y centradas en el usuario.
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
 
 ---
 
