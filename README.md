@@ -1,152 +1,129 @@
-<!-- 🌎 Language Switch -->
-<p align="right">
-  <a href="#english-version">English</a> | 
-  <a href="#versión-en-español">Español</a>
-</p>
+<div align="center">
+  <h1>
+    Hi there, I'm José Sepúlveda 👋
+  </h1>
+  <p>
+    <strong><a href="#-english-version">English Version</a></strong> | <strong><a href="#-versión-en-español">Versión en Español</a></strong>
+  </p>
+</div>
 
----
+<br>
 
-<h1 align="center">👋 Hi, I'm José Sepúlveda</h1>
-<h3 align="center">Computer Engineer & Software Analyst | Chile</h3>
+<a name="-english-version"></a>
+## 🇬🇧 English Version
 
-<p align="center">
-  <a href="https://cl.linkedin.com/in/josesepulvedapino" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/josesepulvedapino" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:josealejandrosepulvedapino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+I'm a proactive and results-oriented developer passionate about technology and innovation. [cite_start]I specialize in building functional, intuitive, and responsive web applications using **Angular** and **Next.js**, with a strong focus on user experience and accessibility[cite: 5]. [cite_start]My experience includes integrating cloud services like **AWS** and **Firebase** [cite: 6, 25] [cite_start]and collaborating within multidisciplinary teams under agile methodologies like **Scrum**[cite: 7, 26].
 
----
+I am currently expanding my profile toward **Data and Artificial Intelligence**, exploring how Machine Learning and data analysis can enhance development to create smarter, more efficient, and user-centered digital experiences.
 
-## 📌 English Version
-
-### 🧠 About Me
-I'm a proactive and results-oriented **Computer Engineer and Software Analyst** from Chile, passionate about creating **functional, intuitive, and responsive web and mobile applications** that prioritize user experience and accessibility.  
-
-I have professional experience as a **Junior Software Engineer** and **Web & Mobile Developer**, working in agile teams using **Angular**, **Next.js**, **Flutter**, and **AWS**.  
-
-Currently, I’m focusing on expanding my career toward the **Data Analytics field**, combining my software background with Python and cloud technologies to build data-driven solutions.
-
----
-
-### ⚙️ Tech Stack
-
-#### 🧩 Frontend & Mobile
-`Angular` • `Next.js` • `TypeScript` • `Flutter` • `HTML` • `SCSS`
-
-#### ☁️ Cloud & Backend
-`AWS (S3, RDS, Amplify, EC2)` • `Firebase` • `Spring Boot` • `Node.js`
-
-#### 🧰 Tools & Methodologies
-`Git` • `Scrum` • `Agile` • `Figma` • `Python` • `Data Analysis (in progress)`
-
----
-
-### 💼 Experience
-
-**Junior Software Engineer – NTT DATA Europe & Latam** (May 2023 – Sep 2023)  
-Developed web interfaces for healthcare clients using Angular, implementing responsive and high-quality solutions in agile environments.
-
-**Web & Mobile Developer Intern – Sellside SPA** (Jan 2023 – Feb 2023)  
-Developed responsive web interfaces and mobile apps in Flutter with Firebase integration, focusing on UX and functionality under Scrum methodology.
-
----
-
-### 🚀 Featured Projects
-- **DEFCA Project** – *Detection of Foliar Diseases in Blueberry Crops using Deep Learning and Computer Vision* (AgroVision AI).  
-  Research-oriented project integrating AI and cloud tools for agriculture optimization.  
-- Personal and learning repositories available at [github.com/josesepulvedapino](https://github.com/josesepulvedapino)
-
----
-
-### 🧾 Certifications
-- **Scrum Foundation Professional Certificate – CertiProf (2023)**  
-- **UI Development – INACAP (2023)**  
-- **Mobile Apps Development – Google Activate (2022)**
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josesepulvedapino&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views"/>
+  <a href="URL-DE-TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
-<p align="right"><a href="#versión-en-español">📖 Read in Spanish 🇪🇸</a></p>
+### 🚀 Tech Stack & Skills
+
+| Frontend         | Backend            | Mobile    | Cloud & Databases   | AI / ML                      | Methodologies & Tools |
+|------------------|--------------------|-----------|---------------------|------------------------------|-----------------------|
+| `Angular`        | `Spring Boot`      | `Flutter` | `AWS`               | `Deep Learning`              | `Scrum`               |
+| `Next.js`        | `Java`             | `Kotlin`  | `Firebase`          | `TensorFlow`                 | `Agile`               |
+| `React`          | `FastAPI`          |           |                     | `Computer Vision`            | `Git`                 |
+| `TypeScript`     | `Python`           |           |                     | `Generative AI`              |                       |
+| `HTML` / `SCSS`  |                    |           |                     |                              |                       |
 
 ---
 
+### 💻 Professional Experience
+
+* **Junior Software Engineer | NTT DATA Europe & Latam** (_May 2023 - Sep 2023_)
+    * [cite_start]Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector[cite: 11].
+    * [cite_start]Translated Figma designs into responsive and functional interfaces using Angular, HTML, and SCSS[cite: 12].
+    * [cite_start]Coordinated directly with clients to analyze requirements, present progress, and propose improvements[cite: 13].
+
+* **Web and Mobile Developer (Intern) | Sellside SPA** (_Jan 2023 - Feb 2023_)
+    * [cite_start]Designed and developed responsive web interfaces using Angular[cite: 24].
+    * [cite_start]Created mobile applications in Flutter with Firebase integration for authentication and real-time databases[cite: 25].
+
+---
+
+### 🎓 Education & Recognitions
+
+* [cite_start]**Computer Engineering** (In progress, 2024-2025) - _INACAP_ [cite: 27]
+* [cite_start]**Programming Analyst** (2021-2023) - _INACAP_ [cite: 27]
+* [cite_start]**Outstanding Student Award (Estudiante Sello INACAP)** [cite: 27]
+    * Recognition for outstanding performance in the "Hack the Challenge 2022," organized by NTT Data Chile.
+
+---
+
+### 📄 Key Certifications
+
+* **Introduction to Generative AI** - _Amazon Web Services (AWS)_
+* [cite_start]**Scrum Foundation Professional Certificate** - _CertiProf_ [cite: 29]
+* **Full Stack Developer** - _INACAP_
+* [cite_start]**Mobile Apps Development** - _Google Activate_ [cite: 31]
+* [cite_start]**User Interface Development (Front End)** - _INACAP_ [cite: 30]
+
+<br>
+<br>
+
+<a name="-versión-en-español"></a>
 ## 🇪🇸 Versión en Español
 
-### 🧠 Sobre mí
-Soy **Ingeniero en Informática y Analista Programador**, enfocado en el desarrollo de **aplicaciones web y móviles funcionales, intuitivas y responsivas** que priorizan la experiencia del usuario y la accesibilidad.  
+[cite_start]Soy un profesional proactivo y orientado a resultados, apasionado por la tecnología y la innovación[cite: 5]. [cite_start]Me especializo en el desarrollo de aplicaciones web funcionales, intuitivas y responsivas usando **Angular** y **Next.js**, priorizando siempre la experiencia de usuario y la accesibilidad[cite: 5]. [cite_start]Mi experiencia incluye la implementación de servicios en la nube como **AWS** y **Firebase** [cite: 6, 25][cite_start], y la colaboración en equipos multidisciplinarios bajo metodologías ágiles como **Scrum**[cite: 7, 26].
 
-He trabajado como **Junior Software Engineer** y **Desarrollador Web y Mobile**, participando en proyectos reales bajo metodologías ágiles con **Angular**, **Next.js**, **Flutter** y **servicios AWS**.  
+Actualmente, estoy expandiendo mi perfil hacia el área de **Datos e Inteligencia Artificial**, explorando cómo el Machine Learning y el análisis de datos pueden potenciar el desarrollo para crear experiencias digitales más inteligentes, eficientes y centradas en el usuario.
 
-Actualmente me encuentro enfocando mi carrera hacia el **área de Análisis de Datos**, combinando mi experiencia en desarrollo con **Python** y tecnologías en la nube para crear soluciones basadas en datos.
-
----
-
-### ⚙️ Tecnologías
-
-#### 🧩 Frontend y Mobile
-`Angular` • `Next.js` • `TypeScript` • `Flutter` • `HTML` • `SCSS`
-
-#### ☁️ Cloud y Backend
-`AWS (S3, RDS, Amplify, EC2)` • `Firebase` • `Spring Boot` • `Node.js`
-
-#### 🧰 Herramientas y Metodologías
-`Git` • `Scrum` • `Agile` • `Figma` • `Python` • `Análisis de Datos (en progreso)`
-
----
-
-### 💼 Experiencia
-
-**Junior Software Engineer – NTT DATA Europe & Latam** (Mayo 2023 – Septiembre 2023)  
-Desarrollo de interfaces web para clientes del sector salud utilizando Angular, asegurando soluciones responsivas y de alta calidad bajo metodologías ágiles.
-
-**Desarrollador Web y Mobile (Práctica Profesional) – Sellside SPA** (Enero 2023 – Febrero 2023)  
-Diseño y desarrollo de aplicaciones web y móviles en Flutter con integración de Firebase, siguiendo metodología Scrum y priorizando la experiencia del usuario.
-
----
-
-### 🚀 Proyectos Destacados
-- **Proyecto DEFCA** – *Detección de Enfermedades Foliares en Cultivos de Arándanos mediante Deep Learning y Visión Computacional* (AgroVision AI).  
-  Proyecto de investigación aplicado a la agricultura de precisión con uso de IA y servicios cloud.  
-- Repositorios personales y de aprendizaje disponibles en [github.com/josesepulvedapino](https://github.com/josesepulvedapino)
-
----
-
-### 🧾 Certificaciones
-- **Scrum Foundation Professional Certificate – CertiProf (2023)**  
-- **Desarrollo de Interfaces de Usuario – INACAP (2023)**  
-- **Desarrollo de Apps Móviles – Google Activate (2022)**
-
----
-
-### 📊 Estadísticas de GitHub
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josesepulvedapino&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="Visitas"/>
+  <a href="URL-DE-TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
-<p align="right"><a href="#english-version">📖 Read in English 🇬🇧</a></p>
+### 🚀 Tecnologías y Habilidades
+
+| Frontend         | Backend            | Móvil     | Cloud & Bases de Datos | IA / ML                      | Metodologías y Herramientas |
+|------------------|--------------------|-----------|------------------------|------------------------------|-----------------------------|
+| `Angular`        | `Spring Boot`      | `Flutter` | `AWS`                  | `Deep Learning`              | `Scrum`                     |
+| `Next.js`        | `Java`             | `Kotlin`  | `Firebase`             | `TensorFlow`                 | `Agile`                     |
+| `React`          | `FastAPI`          |           |                        | `Computer Vision`            | `Git`                       |
+| `TypeScript`     | `Python`           |           |                        | `IA Generativa`              |                             |
+| `HTML` / `SCSS`  |                    |           |                        |                              |                             |
+
+---
+
+### 💻 Experiencia Profesional
+
+* **Junior Software Engineer | NTT DATA Europe & Latam** (_Mayo 2023 - Sep 2023_)
+    * [cite_start]Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud[cite: 11].
+    * [cite_start]Implementé la maquetación web traduciendo diseños de Figma a interfaces responsivas y funcionales con Angular, HTML y SCSS[cite: 12].
+    * [cite_start]Coordiné reuniones con clientes para analizar requisitos, presentar avances y proponer mejoras[cite: 13].
+
+* **Desarrollador Web y Mobile (Prácticante) | Sellside SPA** (_Ene 2023 - Feb 2023_)
+    * [cite_start]Diseñé y desarrollé interfaces web responsivas utilizando Angular[cite: 24].
+    * [cite_start]Creé aplicaciones móviles en Flutter con integración de Firebase para autenticación y bases de datos en tiempo real[cite: 25].
+
+---
+
+### 🎓 Educación y Reconocimientos
+
+* [cite_start]**Ingeniería en Informática** (En curso, 2024-2025) - _INACAP_ [cite: 27]
+* [cite_start]**Analista Programador** (2021-2023) - _INACAP_ [cite: 27]
+* [cite_start]**Estudiante Sello INACAP** [cite: 27]
+    * Reconocimiento por desempeño destacado en el "Hack the Challenge 2022", organizado por NTT Data Chile.
+
+---
+
+### 📄 Certificaciones Destacadas
+
+* **Introduction to Generative AI** - _Amazon Web Services (AWS)_
+* [cite_start]**Scrum Foundation Professional Certificate** - _CertiProf_ [cite: 29]
+* **Desarrollador Full Stack** - _INACAP_
+* [cite_start]**Desarrollo de Apps Móviles** - _Google Actívate_ [cite: 31]
+* [cite_start]**Desarrollo de Interfaces de Usuario (Front End)** - _INACAP_ [cite: 30]
