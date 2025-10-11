@@ -19,7 +19,7 @@
 <a name="english-version"></a>
 ## 🇬🇧 English Version: About Me
 
-[cite_start]I am a **proactive and results-oriented professional** [cite: 5] [cite_start]with a solid background in building functional, intuitive, and responsive web/mobile applications[cite: 5].
+I am a **proactive and results-oriented professional** with a solid background in building functional, intuitive, and responsive web/mobile applications.
 
 🚀 **My Career Transition:** I am actively pivoting my career from development (`Angular`, `Spring Boot`) towards **Data Analysis and Artificial Intelligence**. My goal is to leverage my engineering foundation to extract, transform, and visualize data into actionable business insights.
 
@@ -46,16 +46,16 @@ My experience includes developing high-impact, user-centric solutions that incor
 ## 💼 Professional Experience
 
 **Junior Software Engineer** | **NTT DATA Europe & Latam and Clínica Alemana**
-[cite_start]*May 2023 – September 2023* [cite: 10]
-- [cite_start]Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector under **Agile methodologies**[cite: 11].
-- [cite_start]Implemented web layout using **Angular, HTML, and SCSS**, translating Figma designs into responsive and functional interfaces[cite: 12].
-- [cite_start]Coordinated direct meetings with clients to analyze requirements, present progress, and propose improvements[cite: 13].
+*May 2023 – September 2023*
+- Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector under **Agile methodologies**.
+- Implemented web layout using **Angular, HTML, and SCSS**, translating Figma designs into responsive and functional interfaces.
+- Coordinated direct meetings with clients to analyze requirements, present progress, and propose improvements.
 
 **Web and Mobile Developer Intern** | **Sellside SPA**
-[cite_start]*January 2023 – February 2023* [cite: 22]
-- [cite_start]Developed web applications using **Angular** with an emphasis on responsiveness[cite: 24].
-- [cite_start]Created mobile applications in **Flutter** with **Firebase** integration for authentication and real-time databases[cite: 25].
-- [cite_start]Followed the **Scrum methodology** for planning and delivering features in sprints[cite: 26].
+*January 2023 – February 2023*
+- Developed web applications using **Angular** with an emphasis on responsiveness.
+- Created mobile applications in **Flutter** with **Firebase** integration for authentication and real-time databases.
+- Followed the **Scrum methodology** for planning and delivering features in sprints.
 
 ---
 
@@ -90,19 +90,19 @@ My stack represents the successful transition from Full Stack Development to a D
 
 ## 🎓 Education & Certifications
 
-[cite_start]**Computer Engineering** (In progress, 2024-2025) - *INACAP* [cite: 27]
+**Computer Engineering** (In progress, 2024-2025) - *INACAP*
 
-[cite_start]**Programming Analyst** (2021-2023) - *INACAP* [cite: 27]
+**Programming Analyst** (2021-2023) - *INACAP*
 
 ### 🏅 Recognitions
-- [cite_start]**Outstanding Student Award (Estudiante Sello INACAP)** (2022) [cite: 27]
+- **Outstanding Student Award (Estudiante Sello INACAP)** (2022)
 - **Recognition for participation** in the NTT DATA "Hack the Challenge 2022" competition in Chile.
 
 ### 📄 Certifications
-- [cite_start]**Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023) [cite: 29]
+- **Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023)
 - **Intermediate English (CEFR B1)** - *British Council*
-- [cite_start]**User Interface Development** - *INACAP* (2023) [cite: 30]
-- [cite_start]**Mobile Apps Development** - *GOOGLE ACTIVATE* (2022) [cite: 31]
+- **User Interface Development** - *INACAP* (2023)
+- **Mobile Apps Development** - *GOOGLE ACTIVATE* (2022)
 
 ### 🎯 Certification Focus (2025)
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
@@ -123,7 +123,7 @@ My stack represents the successful transition from Full Stack Development to a D
 <a name="versión-en-español"></a>
 ## 🇪🇸 Versión en Español: Sobre Mí
 
-[cite_start]Soy un profesional **proactivo y orientado a resultados** [cite: 5][cite_start], con una base sólida en la construcción de aplicaciones web y móviles funcionales, intuitivas y responsivas[cite: 5].
+Soy un profesional **proactivo y orientado a resultados**, con una base sólida en la construcción de aplicaciones web y móviles funcionales, intuitivas y responsivas.
 
 🚀 **Mi Transición Profesional:** Actualmente, estoy reenfocando activamente mi carrera, pasando del desarrollo (`Angular`, `Spring Boot`) hacia el **Análisis de Datos e Inteligencia Artificial**. Mi objetivo es aprovechar mi base de ingeniería para extraer, transformar y visualizar datos en *insights* de negocio accionables.
 
@@ -150,16 +150,16 @@ Mi experiencia incluye el desarrollo de soluciones de alto impacto, orientadas a
 ## 💼 Experiencia Profesional
 
 **Junior Software Engineer** | **NTT DATA Europe & Latam y Clínica Alemana**
-[cite_start]*Mayo 2023 – Septiembre 2023* [cite: 10]
-- [cite_start]Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo **metodologías ágiles**[cite: 11].
-- [cite_start]Implementé maquetación web con **Angular, HTML y SCSS**, traduciendo diseños de Figma a interfaces responsivas y funcionales[cite: 12].
-- [cite_start]Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras[cite: 13].
+*Mayo 2023 – Septiembre 2023*
+- Contribuí al desarrollo de interfaces web modernas y robustas para un cliente crítico del sector salud bajo **metodologías ágiles**.
+- Implementé maquetación web con **Angular, HTML y SCSS**, traduciendo diseños de Figma a interfaces responsivas y funcionales.
+- Coordiné reuniones directas con clientes para analizar requisitos, presentar avances y proponer mejoras.
 
 **Practicante, Desarrollador Web y Mobile** | **Sellside SPA**
-[cite_start]*Enero 2023 – Febrero 2023* [cite: 22]
-- [cite_start]Desarrollé aplicaciones web utilizando **Angular**, con énfasis en la responsividad[cite: 24].
-- [cite_start]Creé aplicaciones móviles en **Flutter** con integración de **Firebase** para autenticación y bases de datos en tiempo real[cite: 25].
-- [cite_start]Seguimiento de la **metodología Scrum** para la planificación y entrega de funcionalidades[cite: 26].
+*Enero 2023 – Febrero 2023*
+- Desarrollé aplicaciones web utilizando **Angular**, con énfasis en la responsividad.
+- Creé aplicaciones móviles en **Flutter** con integración de **Firebase** para autenticación y bases de datos en tiempo real.
+- Seguimiento de la **metodología Scrum** para la planificación y entrega de funcionalidades.
 
 ---
 
@@ -194,19 +194,19 @@ Mi stack actual actúa como un puente entre el Desarrollo Full Stack y mi enfoqu
 
 ## 🎓 Educación y Certificaciones
 
-[cite_start]**Ingeniería en Informática** (En curso, 2024-2025) - *INACAP* [cite: 27]
+**Ingeniería en Informática** (En curso, 2024-2025) - *INACAP*
 
-[cite_start]**Analista Programador** (2021-2023) - *INACAP* [cite: 27]
+**Analista Programador** (2021-2023) - *INACAP*
 
 ### 🏅 Reconocimientos Destacados
-- [cite_start]**Estudiante Sello INACAP** (2022) [cite: 27]
+- **Estudiante Sello INACAP** (2022)
 - **Reconocimiento por participación** en la competencia "Hack the Challenge 2022" de NTT DATA Chile.
 
 ### 📄 Certificaciones
-- [cite_start]**Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023) [cite: 29]
+- **Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023)
 - **Inglés Intermedio (CEFR B1)** - *British Council*
-- [cite_start]**Desarrollo de Interfaces de Usuario** - *INACAP* (2023) [cite: 30]
-- [cite_start]**Desarrollo de Apps Móviles** - *GOOGLE ACTÍVATE* (2022) [cite: 31]
+- **Desarrollo de Interfaces de Usuario** - *INACAP* (2023)
+- **Desarrollo de Apps Móviles** - *GOOGLE ACTÍVATE* (2022)
 
 ### 🎯 Foco de Certificación (2025)
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
