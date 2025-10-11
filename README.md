@@ -114,6 +114,9 @@ My stack represents the successful transition from Full Stack Development to a D
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josesepulvedapino's GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=josesepulvedapino&theme=vue-dark&hide_border=true" alt="josesepulvedapino's Streak">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="josesepulvedapino's Top Languages">
 </p>
 
 ---
@@ -218,4 +221,7 @@ Mi stack actual actúa como un puente entre el Desarrollo Full Stack y mi enfoqu
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub de josesepulvedapino">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=josesepulvedapino&theme=vue-dark&hide_border=true" alt="Streak de GitHub de josesepulvedapino">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes Principales de josesepulvedapino">
 </p>
