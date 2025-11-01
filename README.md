@@ -33,7 +33,7 @@ My experience includes developing high-impact, user-centric solutions that incor
 **AI Focus:** Uses **OpenAI GPT-4o Vision** for image analysis of leaves and **GPT-4o** for an intelligent agronomist assistant based on real-time meteorological data.
 **Architecture:** `Next.js 15` • `React 19` • `TypeScript` • `AWS S3`/`RDS PostgreSQL` • `AWS Cognito`.
 **Highlights:** Geolocation-based field mapping, **offline functionality** for field use, and detailed data analytics visualization.
-🔗 **[Live App](https://defca.app/)** | 🔗 [Repository Link](https://github.com/josesepulvedapino/defca-app/tree/feature/assistant-agronomist)
+🔗 **[Landing Page](https://defca.app/)**
 
 ---
 
