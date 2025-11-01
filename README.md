@@ -4,11 +4,11 @@
 ---
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 </div>
 
 <br>
@@ -33,7 +33,7 @@ My experience includes developing high-impact, user-centric solutions that incor
 **AI Focus:** Uses **OpenAI GPT-4o Vision** for image analysis of leaves and **GPT-4o** for an intelligent agronomist assistant based on real-time meteorological data.
 **Architecture:** `Next.js 15` • `React 19` • `TypeScript` • `AWS S3`/`RDS PostgreSQL` • `AWS Cognito`.
 **Highlights:** Geolocation-based field mapping, **offline functionality** for field use, and detailed data analytics visualization.
-🔗 [Repository Link: defca-app](https://github.com/josesepulvedapino/defca-app/tree/feature/assistant-agronomist)
+🔗 **[Live App](https://defca.app/)** | 🔗 [Repository Link](https://github.com/josesepulvedapino/defca-app/tree/feature/assistant-agronomist)
 
 ---
 
@@ -107,11 +107,8 @@ My stack represents the successful transition from Full Stack Development to a D
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josesepulvedapino's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=josesepulvedapino&theme=vue-dark&hide_border=true" alt="josesepulvedapino's Streak">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="josesepulvedapino's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josesepulvedapino's GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=josesepulvedapino&theme=vue-dark&hide_border=true" alt="josesepulvedapino's Streak">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="josesepulvedapino's Top Languages">
 </p>
-
----
-<br>
