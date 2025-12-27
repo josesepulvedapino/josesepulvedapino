@@ -1,15 +1,10 @@
 <div align="center">
 
-# JOSÉ SEPÚLVEDA PINO
+# JOSÉ SEPÚLVEDA PINO <sub>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/josesepulvedapino/">LINKEDIN</a> · <a href="mailto:josealejandrosepulvedapino@gmail.com">EMAIL</a></sub>
 
 **SOFTWARE ENGINEER**
 FULL STACK DEVELOPER · AI & MACHINE LEARNING ENTHUSIAST
 
-<br/>
-
-<a href="https://www.linkedin.com/in/josesepulvedapino/">LINKEDIN</a> &nbsp;·&nbsp; <a href="mailto:josealejandrosepulvedapino@gmail.com">EMAIL</a>
-
-<br/>
 
 ### ━━━ &nbsp; ABOUT &nbsp; ━━━
 
