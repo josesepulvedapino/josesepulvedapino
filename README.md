@@ -9,6 +9,8 @@ FULL STACK DEVELOPER · AI & MACHINE LEARNING ENTHUSIAST
 
 <a href="https://www.linkedin.com/in/josesepulvedapino/">LINKEDIN</a> &nbsp;·&nbsp; <a href="mailto:josealejandrosepulvedapino@gmail.com">EMAIL</a>
 
+<br/>
+
 ### ━━━ &nbsp; ABOUT &nbsp; ━━━
 
 Software Engineer with experience in **full stack development**, currently working on **data-intensive and AI-assisted platforms**. I focus on building **robust backend systems**, data pipelines, and clean web applications, applying **machine learning and generative AI** when it provides real value.
