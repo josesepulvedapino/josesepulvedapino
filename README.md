@@ -1,114 +1,61 @@
-<h1 align="center">👋 Hello, I'm José Sepúlveda</h1>
-<h3 align="center">Aspiring Data Analyst | Full Stack Developer | Generative AI Enthusiast</h3>
-
----
-
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/josesepulvedapino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:josealejandrosepulvedapino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://github.com/josesepulvedapino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
+
+# JOSÉ SEPÚLVEDA PINO
+
+**SOFTWARE ENGINEER**
+FULL STACK DEVELOPER · AI & MACHINE LEARNING ENTHUSIAST
+
+<br/>
+
+<a href="https://www.linkedin.com/in/josesepulvedapino/">LINKEDIN</a> &nbsp;·&nbsp; <a href="mailto:josealejandrosepulvedapino@gmail.com">EMAIL</a>
+
+<br/>
+<br/>
+
+### ━━━ &nbsp; ABOUT &nbsp; ━━━
+
+Software Engineer with experience in **full stack development**, currently working on **data-intensive and AI-assisted platforms**. I focus on building **robust backend systems**, data pipelines, and clean web applications, applying **machine learning and generative AI** when it provides real value.
+
+<br/>
+
+### ━━━ &nbsp; CURRENT ROLE &nbsp; ━━━
+
+**SOFTWARE ENGINEER @ [PARLAMENTO.AI](https://parlamento.ai)**
+<br/>
+Working on backend and data-oriented systems for a platform that **collects, processes, and structures parliamentary data**.
+<br/>
+Data ingestion and **web scraping** of legislative sources.
+<br/>
+Backend services for **data processing, normalization, and storage**.
+<br/>
+AI-driven features such as **transcriptions, summaries, and analysis**.
+
+<br/>
+
+### ━━━ &nbsp; SELECTED PROJECTS &nbsp; ━━━
+
+**[ DEFCA ](https://defca.app)**
+<br/>
+AI-powered crop disease detection using Computer Vision and LLMs.
+
+**[ PRECIOSAGRO.CL ](https://preciosagro.cl)**
+<br/>
+Agricultural market price platform for analyzing prices in Chile.
+
+**HANDWRITTEN DIGIT RECOGNITION**
+<br/>
+CNN-based Deep Learning system with FastAPI backend and React frontend.
+
+<br/>
+
+### ━━━ &nbsp; TECH STACK &nbsp; ━━━
+
+**LANGUAGES** &nbsp;·&nbsp; TYPESCRIPT, PYTHON, SQL
+<br/>
+**FRONTEND** &nbsp;·&nbsp; REACT, NEXT.JS, ANGULAR, TAILWIND CSS
+<br/>
+**BACKEND & AI** &nbsp;·&nbsp; FASTAPI, TENSORFLOW, SCIKIT-LEARN, GEN AI
+<br/>
+**CLOUD** &nbsp;·&nbsp; GCP, AWS, DOCKER, CI/CD
+
 </div>
-
-<br>
-
-I am a **proactive and results-oriented professional** with a solid background in building functional, intuitive, and responsive web/mobile applications.
-
-🚀 **My Career Transition:** I am actively pivoting my career from development (`Angular`, `Spring Boot`) towards **Data Analysis and Artificial Intelligence**. My goal is to leverage my engineering foundation to extract, transform, and visualize data into actionable business insights.
-
-💡 **My Current Focus:** I am currently training to become a **Data Analyst** by focusing on key skills and certifications:
-- **Data Querying & Manipulation:** Mastering **SQL** and **Python** libraries like **Pandas** and **NumPy** (via DataCamp).
-- **Visualization & BI:** Preparing for the **Microsoft PL-300 (Power BI Data Analyst)** and studying **AZ-900 (Azure Fundamentals)**.
-- **AI Integration:** Applying Generative AI models in real-world applications (see DEFCA project).
-
----
-
-## 🚀 Featured AI-First Project
-
-My experience includes developing high-impact, user-centric solutions that incorporate AI as a core component.
-
-### 🌿 DEFCA – Hazelnut Crop Disease Detection (AI-First)
-> A progressive web application for phytosanitary management that uses **Artificial Intelligence** for disease detection and treatment recommendations in hazelnut crops.
-**AI Focus:** Uses **OpenAI GPT-4o Vision** for image analysis of leaves and **GPT-4o** for an intelligent agronomist assistant based on real-time meteorological data.
-**Architecture:** `Next.js 15` • `React 19` • `TypeScript` • `AWS S3`/`RDS PostgreSQL` • `AWS Cognito`.
-**Highlights:** Geolocation-based field mapping, **offline functionality** for field use, and detailed data analytics visualization.
-🔗 **[Landing Page](https://defca.app/)**
-
----
-
-## 💼 Professional Experience
-
-**Junior Software Engineer** | **NTT DATA Europe & Latam and Clínica Alemana**
-*May 2023 – September 2023*
-- Contributed to the development of modern and robust web interfaces for a critical client in the healthcare sector under **Agile methodologies**.
-- Implemented web layout using **Angular, HTML, and SCSS**, translating Figma designs into responsive and functional interfaces.
-- Coordinated direct meetings with clients to analyze requirements, present progress, and propose improvements.
-
-**Web and Mobile Developer Intern** | **Sellside SPA**
-*January 2023 – February 2023*
-- Developed web applications using **Angular** with an emphasis on responsiveness.
-- Created mobile applications in **Flutter** with **Firebase** integration for authentication and real-time databases.
-- Followed the **Scrum methodology** for planning and delivering features in sprints.
-
----
-
-## 🧠 My Tech Stack
-
-My stack represents the successful transition from Full Stack Development to a Data-focused role.
-
-**Data, AI & ML (Core Focus):**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Web & Frameworks:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Cloud, DB & Tools:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
-
-## 🎓 Education & Certifications
-
-**Computer Engineering** (In progress, 2024-2025) - *INACAP*
-
-**Programming Analyst** (2021-2023) - *INACAP*
-
-### 🏅 Recognitions
-- **Outstanding Student Award (Estudiante Sello INACAP)** (2022)
-- **Recognition for participation** in the NTT DATA "Hack the Challenge 2022" competition in Chile.
-
-### 📄 Certifications
-- **Scrum Foundation Professional Certificate (SFPC)** - *CERTIPROF* (2023)
-- **Intermediate English (CEFR B1)** - *British Council*
-- **User Interface Development** - *INACAP* (2023)
-- **Mobile Apps Development** - *GOOGLE ACTIVATE* (2022)
-
-### 🎯 Certification Focus (2025)
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- **Microsoft Azure Fundamentals (AZ-900)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josesepulvedapino's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=josesepulvedapino&theme=vue-dark&hide_border=true" alt="josesepulvedapino's Streak">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesepulvedapino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="josesepulvedapino's Top Languages">
-</p>
