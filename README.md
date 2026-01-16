@@ -1,55 +1,36 @@
 <div align="center">
 
-# JOSÉ SEPÚLVEDA PINO <sub>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/josesepulvedapino/">LINKEDIN</a> · <a href="mailto:josealejandrosepulvedapino@gmail.com">EMAIL</a></sub>
+# Jose Sepulveda Pino
 
-**SOFTWARE ENGINEER**
-FULL STACK DEVELOPER · AI & MACHINE LEARNING ENTHUSIAST
+**Software Engineer & AI Enthusiast**
 
+Software Engineer @ [Parlamento.ai](https://parlamento.ai)
 
-### ━━━ &nbsp; ABOUT &nbsp; ━━━
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josesepulvedapino-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/josesepulvedapino)
 
-Software Engineer with experience in **full stack development**, currently working on **data-intensive and AI-assisted platforms**. I focus on building **robust backend systems**, data pipelines, and clean web applications, applying **machine learning and generative AI** when it provides real value.
+---
 
-<br/>
+</div>
 
-### ━━━ &nbsp; CURRENT ROLE &nbsp; ━━━
+## About
 
-**SOFTWARE ENGINEER @ [PARLAMENTO.AI](https://parlamento.ai)**
-<br/>
-Working on backend and data-oriented systems for a platform that **collects, processes, and structures parliamentary data**.
-<br/>
-Data ingestion and **web scraping** of legislative sources.
-<br/>
-Backend services for **data processing, normalization, and storage**.
-<br/>
-AI-driven features such as **transcriptions, summaries, and analysis**.
+I build web applications that solve real problems. Passionate about using AI to create tools that make a difference — from helping farmers detect crop diseases to making legislative processes more transparent.
 
-<br/>
+## Projects
 
-### ━━━ &nbsp; SELECTED PROJECTS &nbsp; ━━━
+### [finanple.app](https://finanple.app)
+Finance management app designed for couples. Track shared household expenses with automatic proportional splitting based on income, manage personal spending separately, and set joint savings goals. Features recurring transactions, smart categories, and a dashboard that shows available funds after contributions. Available in English and Spanish.
 
-**[ DEFCA ](https://defca.app)**
-<br/>
-AI-powered crop disease detection using Computer Vision and LLMs.
+### [preciosagro.cl](https://preciosagro.cl)
+Free platform displaying daily wholesale prices for fruits and vegetables across 11 Chilean markets including Lo Valledor and Vega Central. Data sourced from ODEPA's official daily bulletins, showing minimum, maximum, and average prices with transaction volumes. Built to make government agricultural data accessible to farmers, vendors, and consumers.
 
-**[ PRECIOSAGRO.CL ](https://preciosagro.cl)**
-<br/>
-Agricultural market price platform for analyzing prices in Chile.
+### [defca.app](https://defca.app)
+AI-powered agricultural health platform for Chilean farmers. Upload a photo and get instant disease diagnosis with treatment recommendations. Features include farm mapping with GPS/drone support, field activity logging with geolocation, and an AI assistant trained on official INIA and SAG documentation. Works offline with automatic sync — built for real field conditions.
 
-**HANDWRITTEN DIGIT RECOGNITION**
-<br/>
-CNN-based Deep Learning system with FastAPI backend and React frontend.
+---
 
-<br/>
+<div align="center">
 
-### ━━━ &nbsp; TECH STACK &nbsp; ━━━
-
-**LANGUAGES** &nbsp;·&nbsp; TYPESCRIPT, PYTHON, SQL
-<br/>
-**FRONTEND** &nbsp;·&nbsp; REACT, NEXT.JS, ANGULAR, TAILWIND CSS
-<br/>
-**BACKEND & AI** &nbsp;·&nbsp; FASTAPI, TENSORFLOW, SCIKIT-LEARN, GEN AI
-<br/>
-**CLOUD** &nbsp;·&nbsp; GCP, AWS, DOCKER, CI/CD
+Chile
 
 </div>
