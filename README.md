@@ -1,36 +1,11 @@
-<div align="center">
-
-# Jose Sepulveda Pino
-
-**Software Engineer & AI Enthusiast**
-
-Software Engineer @ [Parlamento.ai](https://parlamento.ai)
+# jose sepulveda
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josesepulvedapino-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/josesepulvedapino)
 
----
+software engineer at [parlamento.ai](https://parlamento.ai), based in chile
 
-</div>
+## projects
 
-## About
-
-software engineer based in chile. i like building tools that turn complex data into something useful.
-
-## Projects
-
-### [finanple.app](https://finanple.app)
-finance management app designed for couples. track shared household expenses with automatic proportional splitting based on income, manage personal spending separately, and set joint savings goals. features recurring transactions, smart categories, and a dashboard that shows available funds after contributions. available in english and spanish.
-
-### [preciosagro.cl](https://preciosagro.cl)
-free platform displaying daily wholesale prices for fruits and vegetables across 11 chilean markets including lo valledor and vega central. data sourced from odepa's official daily bulletins, showing minimum, maximum, and average prices with transaction volumes. built to make government agricultural data accessible to farmers, vendors, and consumers.
-
-### [defca.app](https://defca.app)
-ai powered agricultural health platform for chilean farmers. upload a photo and get instant disease diagnosis with treatment recommendations. features include farm mapping with gps and drone support, field activity logging with geolocation, and an ai assistant trained on official inia and sag documentation. works offline with automatic sync, built for real field conditions.
-
----
-
-<div align="center">
-
-Chile
-
-</div>
+- [finanple.app](https://finanple.app) - finance app for couples with income-based expense splitting
+- [preciosagro.cl](https://preciosagro.cl) - daily wholesale prices for chilean agricultural markets
+- [defca.app](https://defca.app) - ai crop disease diagnosis for farmers
