@@ -8,7 +8,7 @@ Software engineer at [parlamento.ai](https://parlamento.ai), based in Chile.
 ## Projects
 
 - [josesepulveda.me](https://josesepulveda.me) - personal site
-- [what-if-someday.vercel.app](https://what-if-someday.vercel.app) - interactive solar system
+- [what-if-someday](https://what-if-someday.vercel.app) - interactive solar system
 - [finanple.app](https://finanple.app) - finance app for couples with income-based expense splitting
 - [preciosagro.cl](https://preciosagro.cl) - daily wholesale prices for Chilean agricultural markets
 - [defca.app](https://defca.app) - AI crop disease diagnosis for farmers
