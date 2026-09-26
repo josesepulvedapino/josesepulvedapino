@@ -8,6 +8,7 @@ Software engineer at [parlamento.ai](https://parlamento.ai), based in Chile.
 ## Projects
 
 - [finanple.app](https://finanple.app) - finance app for couples with income-based expense splitting
+- [zahori](https://www.npmjs.com/package/zahori) - find the media stream behind any web page
 - [josesepulveda.me](https://josesepulveda.me) - personal site
 - [preciosagro.cl](https://preciosagro.cl) - daily wholesale prices for Chilean agricultural markets
 - [defca.app](https://defca.app) - AI crop disease diagnosis for farmers
