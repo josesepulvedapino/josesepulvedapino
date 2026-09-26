@@ -11,5 +11,4 @@ Software engineer at [parlamento.ai](https://parlamento.ai), based in Chile.
 - [zahori](https://www.npmjs.com/package/zahori) - find the media stream behind any web page
 - [josesepulveda.me](https://josesepulveda.me) - personal site
 - [preciosagro.cl](https://preciosagro.cl) - daily wholesale prices for Chilean agricultural markets
-- [defca.app](https://defca.app) - AI crop disease diagnosis for farmers
 
