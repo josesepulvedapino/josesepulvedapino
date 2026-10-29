@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josesepulvedapino-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/josesepulvedapino)
 [![Website](https://img.shields.io/badge/Web-josesepulveda.me-C47D5A?style=flat&logo=safari)](https://josesepulveda.me)
 
-Software engineer at [parlamento.ai](https://parlamento.ai), based in Chile.
+Software engineer at [parvel.com](https://parvel.com), based in Chile.
 
 ## Projects
 
